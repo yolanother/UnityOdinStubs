@@ -1,0 +1,2 @@
+# Odin Stubs
+Odin has a great collection of tools that make building quick debug buttons etc into unity editors super easy. Unfortunately it isn't open source and if you're working on opensource projects may not be an option. For my projects I tend to use Odin at least during development. This library provides stubs for some of the odin attributes that I use most frequently. This way I don't have to remove them from the source right away.
