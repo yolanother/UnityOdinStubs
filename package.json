@@ -1,0 +1,7 @@
+{
+  "unity": "2019.4",
+  "name": "com.doubtech.odinstubs",
+  "displayName": "DoubTech - Odin Stubs",
+  "description": "A set of stubs to prevent build issues when odin is not avaiable",
+  "version": "1.0.0"
+}
